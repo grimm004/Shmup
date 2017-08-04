@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shmup", "Shmup", "{D0C17519-C78C-4A21-9E5B-FC9B2959A68C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shmup", "Shmup\Shmup\Shmup.csproj", "{16C91C29-E0FE-49BF-9992-CCF0235B3CD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShmupContent", "Shmup\ShmupContent\ShmupContent.contentproj", "{E1C03C1B-90AB-4011-9075-2B57AE674BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShmupServer", "ShmupServer\ShmupServer.csproj", "{B6DF679C-99FD-4C84-B16B-1FF0AC1648EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C91C29-E0FE-49BF-9992-CCF0235B3CD2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{16C91C29-E0FE-49BF-9992-CCF0235B3CD2}.Debug|x86.ActiveCfg = Debug|x86
+		{16C91C29-E0FE-49BF-9992-CCF0235B3CD2}.Debug|x86.Build.0 = Debug|x86
+		{16C91C29-E0FE-49BF-9992-CCF0235B3CD2}.Release|Any CPU.ActiveCfg = Release|x86
+		{16C91C29-E0FE-49BF-9992-CCF0235B3CD2}.Release|x86.ActiveCfg = Release|x86
+		{16C91C29-E0FE-49BF-9992-CCF0235B3CD2}.Release|x86.Build.0 = Release|x86
+		{E1C03C1B-90AB-4011-9075-2B57AE674BA2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E1C03C1B-90AB-4011-9075-2B57AE674BA2}.Debug|x86.ActiveCfg = Debug|x86
+		{E1C03C1B-90AB-4011-9075-2B57AE674BA2}.Release|Any CPU.ActiveCfg = Release|x86
+		{E1C03C1B-90AB-4011-9075-2B57AE674BA2}.Release|x86.ActiveCfg = Release|x86
+		{B6DF679C-99FD-4C84-B16B-1FF0AC1648EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DF679C-99FD-4C84-B16B-1FF0AC1648EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DF679C-99FD-4C84-B16B-1FF0AC1648EB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B6DF679C-99FD-4C84-B16B-1FF0AC1648EB}.Debug|x86.Build.0 = Debug|Any CPU
+		{B6DF679C-99FD-4C84-B16B-1FF0AC1648EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DF679C-99FD-4C84-B16B-1FF0AC1648EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6DF679C-99FD-4C84-B16B-1FF0AC1648EB}.Release|x86.ActiveCfg = Release|Any CPU
+		{B6DF679C-99FD-4C84-B16B-1FF0AC1648EB}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16C91C29-E0FE-49BF-9992-CCF0235B3CD2} = {D0C17519-C78C-4A21-9E5B-FC9B2959A68C}
+		{E1C03C1B-90AB-4011-9075-2B57AE674BA2} = {D0C17519-C78C-4A21-9E5B-FC9B2959A68C}
+		{B6DF679C-99FD-4C84-B16B-1FF0AC1648EB} = {D0C17519-C78C-4A21-9E5B-FC9B2959A68C}
+	EndGlobalSection
+EndGlobal

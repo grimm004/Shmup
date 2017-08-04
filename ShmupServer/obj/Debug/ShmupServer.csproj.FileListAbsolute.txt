@@ -1,0 +1,12 @@
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\obj\Debug\ShmupServer.csprojResolveAssemblyReference.cache
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\bin\Debug\ShmupServer.exe.config
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\bin\Debug\ShmupServer.exe
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\bin\Debug\ShmupServer.pdb
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\obj\Debug\ShmupServer.exe
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\obj\Debug\ShmupServer.pdb
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\bin\Debug\ShmupServer.exe.config
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\bin\Debug\ShmupServer.exe
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\bin\Debug\ShmupServer.pdb
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\obj\Debug\ShmupServer.csprojResolveAssemblyReference.cache
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\obj\Debug\ShmupServer.exe
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\Shmup\ShmupServer\obj\Debug\ShmupServer.pdb

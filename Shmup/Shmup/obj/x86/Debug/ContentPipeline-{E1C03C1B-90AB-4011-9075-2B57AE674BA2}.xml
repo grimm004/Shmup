@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Users\Max Grimmett\Documents\Visual Studio 2017\Projects\Shmup\Shmup\Shmup\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2017-01-30T12:15:40.9882548+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TimesNewRoman.spritefont</Source>
+      <Name>TimesNewRoman</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Users\Max Grimmett\Documents\Visual Studio 2017\Projects\Shmup\Shmup\Shmup\bin\x86\Debug\Content\TimesNewRoman.xnb</Output>
+      <Time>2017-02-03T11:06:18.4691939+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SegoeUIMono.spritefont</Source>
+      <Name>SegoeUIMono</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Users\Max Grimmett\Documents\Visual Studio 2017\Projects\Shmup\Shmup\Shmup\bin\x86\Debug\Content\SegoeUIMono.xnb</Output>
+      <Time>2017-02-03T11:18:31.8055264+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ArialLarge.spritefont</Source>
+      <Name>ArialLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Users\Max Grimmett\Documents\Visual Studio 2017\Projects\Shmup\Shmup\Shmup\bin\x86\Debug\Content\ArialLarge.xnb</Output>
+      <Time>2017-02-07T20:08:03.0962181+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites-white.png</Source>
+      <Name>sprites-white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Users\Max Grimmett\Documents\Visual Studio 2017\Projects\Shmup\Shmup\Shmup\bin\x86\Debug\Content\sprites-white.xnb</Output>
+      <Time>2017-02-05T00:12:06.6592262+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E1C03C1B-90AB-4011-9075-2B57AE674BA2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Users\Max Grimmett\Documents\Visual Studio 2017\Projects\Shmup\Shmup\ShmupContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Users\Max Grimmett\Documents\Visual Studio 2017\Projects\Shmup\Shmup\Shmup\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Users\Max Grimmett\Documents\Visual Studio 2017\Projects\Shmup\Shmup\Shmup\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Users\Max Grimmett\Documents\Visual Studio 2017\Projects\Shmup\Shmup\Shmup\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-05-01T22:43:08.2557285+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
