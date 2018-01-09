@@ -6,7 +6,6 @@ using System.Drawing;
 
 namespace Shmup
 {
-#if WINDOWS || XBOX
     static class Program
     {
         public const string VERSION = "1.1.2";
@@ -67,7 +66,6 @@ namespace Shmup
             return true;
         }
     }
-#endif
 
     /// <summary>
     /// A class that contains some core constants for the game's mechanics

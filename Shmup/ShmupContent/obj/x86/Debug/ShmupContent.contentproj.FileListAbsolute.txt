@@ -1,3 +1,0 @@
-C:\Users\grimm\Documents\Visual Studio 2015\Projects\Shmup\Shmup\ShmupContent\obj\x86\Debug\ShmupContent.contentprojResolveAssemblyReference.cache
-F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\Shmup\Shmup\ShmupContent\obj\x86\Debug\ShmupContent.contentprojResolveAssemblyReference.cache
-F:\Users\Max Grimmett\Documents\Visual Studio 2017\Projects\Shmup\Shmup\ShmupContent\obj\x86\Debug\ShmupContent.contentprojResolveAssemblyReference.cache
